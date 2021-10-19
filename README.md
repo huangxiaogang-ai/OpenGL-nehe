@@ -13,4 +13,5 @@ Note: Lesson13,Lesson14,Lesson15,Lesson35,Lesson43 should copy resource file to 
 
 Missed Lesson47 CG Vertex Shader, I'm sorry that my computer is ATI card, and maybe it can't used in other platform except windows.
 
-Author:Cai Wancang
+Author:Huang Xiaogang
+
